@@ -101,7 +101,7 @@ const addDepartment = () => {
     ])
     .then(answer => {
       connection.query(
-        'INSERT INTO department (name) VALUES (?)',
+        'INSERT INTO department (dept_name) VALUES (?)',
         [answer.department],
         function (err, res) {
           if (err) throw err;

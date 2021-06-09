@@ -35,5 +35,10 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 [Link to Demo](https://drive.google.com/file/d/1Bij1oREyxsaS9O4kg9wIW4el0r1496wj/view)  
 
+## Screenshots
+
+![screenshot](https://github.com/kara-krzystan/employee-tracker/blob/main/assets/screenshot-1.jpg)  
+![screenshot](https://github.com/kara-krzystan/employee-tracker/blob/main/assets/screenshot-2.jpg)
+
 ## Contact
 [Kara Krzystan on GitHub](http://github.com/kara-krzystan)
